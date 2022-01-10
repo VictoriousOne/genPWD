@@ -12,5 +12,5 @@ Length of password
 # Installation
 Site URL: https//victoriousone.github.oi/genPWD
 
-# Contributios
+# Contributions
 Contributions are welcome as I could not figure out how to make one function for all the prompts. I tried returning  values but they always came back undefined if the function was called recursively.
